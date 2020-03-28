@@ -1,7 +1,6 @@
 ---
 title: "Coronavirus Safety Tips"
 date: 2020-03-28T16:42:25-07:00
-draft: true
 ---
 
 After an autopsy with patients who tested positive for the COVID-19 virus, this is the experts' observation:
