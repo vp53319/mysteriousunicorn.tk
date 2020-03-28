@@ -1,6 +1,6 @@
 ---
 title: "Coronavirus Safety Tips"
-date: 2020-03-28T12:49:38-07:00
+date: 2020-03-28T16:42:25-07:00
 draft: true
 ---
 
