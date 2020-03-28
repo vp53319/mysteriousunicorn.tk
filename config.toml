@@ -11,7 +11,7 @@ theme = "hugo-mainroad-theme"
 [Author]
   name = "Mysterious Unicorn's Blog"
   bio = "The mysterious unicorn's true identity is unknown. Maybe she is a successful blogger or writer. Nobody knows it!"
-  avatar = "img/orionsmall.jpg"
+  avatar = "img/unicorn-3637428.png"
 
 [Params]
   subtitle = "Valuable Knowledge!" # Subtitle of your site
