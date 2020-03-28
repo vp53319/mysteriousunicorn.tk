@@ -8,6 +8,8 @@ theme = "hugo-mainroad-theme"
 # disqusShortname = "" # Enable comments by entering your Disqus shortname
 # googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
+enableEmoji = true
+
 [Author]
   name = "Mysterious Unicorn's Blog"
   bio = "The mysterious unicorn's true identity is unknown. Maybe she is a successful blogger or writer. Nobody knows it!"
