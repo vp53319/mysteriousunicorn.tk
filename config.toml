@@ -1,5 +1,5 @@
-# baseurl = "https://www.mysteriousunicorn.tk"
-baseurl = "/"
+baseurl = "https://www.mysteriousunicorn.tk"
+# baseurl = "/"
 relativeURLs = true
 title = "Mysterious Unicorn's Blog"
 languageCode = "en-us"
